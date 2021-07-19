@@ -24,7 +24,7 @@ namespace API
                 var logger = services.GetRequiredService<ILogger<Program>>();
                 logger.LogError(ex, "Error occured during Migration");
             }
-            host.Run();
+            host.Run();//updated
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
