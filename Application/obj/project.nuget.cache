@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "t0Sej95CwgFH6v23hzEZP2G5m0V6gxr46+HVYIIyzVp4DFelIcqjTP/RTSeB9VwIpULnqFn7nGvBWOWGSbCExQ==",
+  "dgSpecHash": "K8CDk5P3A6MXJe1RcPpeKh6fghRawbKfaf9FPNhdcxrmlmPa257BlCOoT5+la3BqUXbHU6xiUhaIa+MA/Zbw5g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Habbo\\Desktop\\.netcourse\\Activities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Habbo\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Habbo\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\Habbo\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.2\\microsoft.data.sqlite.core.5.0.2.nupkg.sha512",
     "C:\\Users\\Habbo\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\Habbo\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.2\\microsoft.entityframeworkcore.5.0.2.nupkg.sha512",
